@@ -30,7 +30,7 @@ const ES = {
   "about.text":           "Soy esudiante de Uniespinal y estudio casi todos los dias para lograr tener los conociemientos necessarios y graduarme.Investigar los casos complejos de programar nuevos proyectos me impulsan a mejorar.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "[Ciudad], Colombia",
+  "about.valueLocation":  "Esinal, Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
   "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
