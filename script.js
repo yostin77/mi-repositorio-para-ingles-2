@@ -56,9 +56,9 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.1.text":  "Estoy apredndiendo como usar y mejorar mi github",
+  "edu.2.title": "4A",
+  "edu.2.text":  "Como tener mi github para tener un mejor perfil profesional",
 
   "exp.1.title": "[Rol o tipo de proyecto]",
   "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
@@ -78,7 +78,7 @@ const ES = {
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "YOSTIN DURAN · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
@@ -104,7 +104,7 @@ const EN = {
   "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
-  "about.valueLocation":  "[City], Colombia",
+  "about.valueLocation":  "ESPINAL, Colombia",
   "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
   "about.valueLanguages": "Spanish (native) · English ([your level])",
@@ -152,7 +152,7 @@ const EN = {
   "contact.emailLabel":    "Email",
   "contact.linkedinValue": "[Your professional profile]",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "yostin duran · Professional Technician in Web Programming · UniEspinal"
 };
 
 
