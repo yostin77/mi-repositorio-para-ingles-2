@@ -31,8 +31,8 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> [Write 2–4 sentences in English.]
-
+> Spanish version: JavaScript es un lenguaje de programación utilizado para crear páginas web interactivas.
+English version: JavaScript is a programming language.
 ---
 
 ## Question 2 · What did you not translate?
@@ -40,8 +40,7 @@ in your English version. Explain why you removed it.
 Name **one technical term** that you kept in English in both versions.
 Explain why translating it would be a bad idea.
 
-> [Write 2–4 sentences in English.]
-
+> I kept the technical term JavaScript in English in both versions because it is the official name of a programming language. Translating it could cause confusion since programmers around the world use the same term.
 ---
 
 ## Question 3 · What was difficult?
@@ -50,12 +49,9 @@ Name **one sentence** that was hard to write in English. Copy the Spanish
 version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
-> Spanish: [copy your sentence here]
->
-> English: [copy your sentence here]
->
-> [Write 2–4 sentences in English explaining the change.]
-
+Spanish version: Estoy desarrollando mis conocimientos en programación y tecnología.
+English version: I am developing my knowledge of programming and technology.
+Explanation: I changed the sentence structure to make it sound natural in English. A word-by-word translation does not always work because English and Spanish have different grammatical structures.
 ---
 
 ## Tools
